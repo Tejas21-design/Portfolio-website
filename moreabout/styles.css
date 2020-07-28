@@ -150,7 +150,9 @@ top: 2rem;
 color: crimson;
 }
 
-
+.home__title span{
+  color:yellow;
+}
 
 
 
@@ -671,15 +673,9 @@ header{
 .section-title.padd-15 h2{
   font-size: 25px;
 }
-.flex ul{
 
-}
-.nav__link a{
 
-}
-.about .about-content .about-text p{
 
-}
 
 @media (max-width:988px){
 header{
@@ -722,12 +718,7 @@ header{
 .container{
   margin-left: 0;
 }
-.skills{
 
-}
-.personal-info{
-
-}
 }
 @media (max-width:398px){
 header{
@@ -735,9 +726,7 @@ header{
   overflow: hidden;
   
 }
-div.card{
 
-}
 .right.flex{
   margin: auto;
   display: flex;
@@ -757,9 +746,7 @@ div.card{
 .section-title.padd-15 h2{
   font-size: 25px;
 }
-.personal-info{
 
-}
 .skills{
   margin-left: 329px;
 }
